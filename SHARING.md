@@ -2,7 +2,7 @@
 
 本目录是可直接放到 GitHub 的 Codex 插件市场仓库，包含一个插件：`expert-recruitment-workbook`。
 
-首次使用请先阅读 [完整使用说明](docs/USAGE.md)。如需给快手内部 AI Mario 和 mentor 使用，请阅读 [Mario 部署说明](docs/MARIO_DEPLOYMENT.md)。
+首次使用请先阅读 [完整使用说明](docs/USAGE.md)。如需部署到快手内部 AI Mario，请阅读 [Mario 部署说明](docs/MARIO_DEPLOYMENT.md)。
 
 ## 用 GitHub 分享
 
