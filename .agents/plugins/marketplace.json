@@ -1,0 +1,21 @@
+{
+  "name": "expert-recruitment-tools",
+  "interface": {
+    "displayName": "专家招募工具"
+  },
+  "plugins": [
+    {
+      "name": "expert-recruitment-workbook",
+      "source": {
+        "source": "local",
+        "path": "./plugins/expert-recruitment-workbook"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
+

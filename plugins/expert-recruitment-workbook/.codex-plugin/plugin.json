@@ -1,0 +1,8 @@
+{
+  "name": "expert-recruitment-workbook",
+  "version": "1.0.0",
+  "description": "将招募文案和多渠道专家资料整理为带重复项、报价及口径校验的专业 Excel 招募表。",
+  "repository": "https://github.com/Zubulon-ai/expert-recruitment-workbook",
+  "homepage": "https://github.com/Zubulon-ai/expert-recruitment-workbook",
+  "skills": "./skills/"
+}

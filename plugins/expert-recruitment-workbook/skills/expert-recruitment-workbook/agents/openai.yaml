@@ -1,0 +1,9 @@
+interface:
+  display_name: "专家招募表生成器"
+  short_description: "整理多渠道专家资料并生成校验完毕的专业 Excel 招募表"
+  brand_color: "#2563EB"
+  default_prompt: "Use $expert-recruitment-workbook to turn the pasted recruitment brief and expert profiles into a polished, validated Excel workbook."
+
+policy:
+  allow_implicit_invocation: true
+
