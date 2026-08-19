@@ -26,5 +26,9 @@ $expert-recruitment-workbook 把下面的招募文案和专家资料整理成新
 
 也可以不显式写 Skill 名称，直接提出“生成专家招募表”“把新增专家加到 Excel”等需求。
 
-详细说明见 [SHARING.md](SHARING.md)。
+## 文档
 
+- [完整使用说明](docs/USAGE.md)
+- [AI Mario 内部部署说明](docs/MARIO_DEPLOYMENT.md)
+- [Mario 兼容封装包](mario/expert-recruitment-workbook/)
+- [GitHub 分享与安装](SHARING.md)
